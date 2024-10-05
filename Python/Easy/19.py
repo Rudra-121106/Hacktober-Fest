@@ -1,5 +1,5 @@
 import math
 
-result = math.exp(1000)
+result = math.exp(100)
 print(result)
 
