@@ -1,7 +1,8 @@
+import java.util.ArrayList;
 class Main {
     public static void main(String[] args) {
-        List<String> names = new ArrayList<>();
+        ArrayList<String> names = new ArrayList<String>();
         names.add("Alice");
-        System.out.println(names[0]);
+        System.out.println(names.toString());
     }
 }
