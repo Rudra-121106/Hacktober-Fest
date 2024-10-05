@@ -3,6 +3,8 @@ class Main {
         Integer x = 1000;
         if (x == 1000) {
             System.out.println("Equal");
+        } else{
+            System.out.println("Not Equal");
         }
     }
 }
